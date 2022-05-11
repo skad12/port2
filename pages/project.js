@@ -1,5 +1,5 @@
-import Head from '.next/Head'
-import Image from '.next/Image'
+import Head from 'next/Head'
+import Image from 'next/Image'
 
 
 function Project() {
